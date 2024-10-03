@@ -58,7 +58,7 @@ export default function Header() {
       <Container className="d-flex justify-between align-items-center">
         <Navbar.Brand href="#home" className="pl-3">
           <img
-            src="./public/assets/asset 0.png"
+            src="./assets/asset 0.png"
             className="h-[44px]"
             alt="Logo"
           />
