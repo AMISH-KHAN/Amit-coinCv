@@ -19,7 +19,7 @@ export default function Tokenomics() {
                   
                   <div className='mt-12 flex flex-col xl:flex-row w-full '>
                       <div className='xl:w-1/4 w-full '>
-                          <img src="./assets/asset 12.png" className=' max-w-none' alt="" />
+                          <img src="./assets/asset 12.png" className=' max-w-full md:max-w-none  ' alt="" />
                       </div>
                       <div className='flex md:flex-row flex-col justify-around mt-8 '> 
                           
