@@ -21,7 +21,7 @@ export default function Footer() {
         <div className="mb-8 w-full mt-4 text-[14px] md:text-[20px] mx-[10px] font-medium md:w-1/4">
                       <div>
                       <img
-            src="./public/assets/asset 0.png"
+            src="./assets/asset 0.png"
             className="h-[44px]"
             alt="Logo"
           />
